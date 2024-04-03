@@ -4,6 +4,7 @@ import os
 
 import pkg_resources
 
+
 STRUCTURE_FILE = "datalake_structure.txt"
 
 
@@ -44,4 +45,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
     
