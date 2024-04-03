@@ -6,3 +6,4 @@ datalake/raw/ingested/
 datalake/raw/stagging/
 
 
+
